@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Мой digital garden :)
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Я так понял, что это текст на главную страницу 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

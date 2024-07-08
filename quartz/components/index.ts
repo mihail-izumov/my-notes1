@@ -11,8 +11,8 @@ import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
 import Explorer from "./Explorer"
 import TagList from "./TagList"
-import Graph from "./Graph"
-import Backlinks from "./Backlinks"
+//import Graph from "./Graph"
+//import Backlinks from "./Backlinks"
 import Search from "./Search"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
@@ -33,8 +33,8 @@ export {
   TableOfContents,
   Explorer,
   TagList,
-  Graph,
-  Backlinks,
+  //Graph,
+  //Backlinks,
   Search,
   Footer,
   DesktopOnly,

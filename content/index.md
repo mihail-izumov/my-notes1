@@ -7,4 +7,6 @@ title: Мой digital garden :)
 ## Проверка table of contents
 
 hfdhgkjdfhgkdkgj
+[[Note1]]
+
 ### kjdskfj
